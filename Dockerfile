@@ -1,3 +1,4 @@
+
 # Use OpenJDK base image
 FROM eclipse-temurin:17-jre-jammy
 
